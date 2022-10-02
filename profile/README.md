@@ -36,7 +36,7 @@
 </td></tr></table>
 
 ### Diagrama de flujo utilizado
-<img src='./img/Diagrama.jpeg'>
+<img src='./profile/img/Diagrama.jpeg'>
 
 
 ## Pasos
