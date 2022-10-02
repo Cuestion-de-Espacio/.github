@@ -25,20 +25,20 @@
 <td> Rasgos</td> <td> Mounstros </td><td> Ambientes </td>
 </tr><tr><td>
 
-![](/img/Rasgos.png)
+![](/profile/img/Rasgos.png)
 
 </td><td>
 
-![](/img/Mounstros0000.png)
+![](/profile/img/Mounstros0000.png)
  
 </td><td>
  
-![](/img/Ambientes0000.png)
+![](/profile/img/Ambientes0000.png)
  
 </td></tr></table>
 
 ### Diagrama de flujo utilizado
-<img src='./img/Diagrama.jpeg'>
+<img src='./profile/img/Diagrama.jpeg'>
 
 
 ## Pasos
