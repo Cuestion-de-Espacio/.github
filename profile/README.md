@@ -1,5 +1,7 @@
 # 👽 Cuestion de espacio
 
+- **Fuente letra** "Malgun Gothic"
+
 ## Reglas
 - Jugar una carta por turno
 - Se juego con dos jugadores (modo duelo)
