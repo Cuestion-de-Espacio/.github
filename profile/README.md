@@ -1,7 +1,7 @@
 # 👽 Cuestion de espacio
 
 - [Nasa Internacional Space Apps Challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/space-biology-superhero/teams/cuestion-de-espacio/project)
-- [Presentacion(https://docs.google.com/presentation/d/1owJP8IoTKpZtDeG0UolIKm6VnmX1VBTz4oB3lYsBAMM/edit#slide=id.gcb9a0b074_1_0)
+- [Presentacion](https://docs.google.com/presentation/d/1owJP8IoTKpZtDeG0UolIKm6VnmX1VBTz4oB3lYsBAMM/edit#slide=id.gcb9a0b074_1_0)
 - [Drive con la cartas](https://drive.google.com/drive/folders/1X7Xbgo0IdRu6H7Q1ddaP2kjalD71kC7I)
 
 # Pagina Principal
