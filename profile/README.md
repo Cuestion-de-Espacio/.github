@@ -42,9 +42,9 @@
 
 
 ## Pasos
-- Con qr voy a la direccion de la carta. Ejemplo www.Cuestion-De-Espacio.com/Cartas/001
+- Con qr voy a la direccion de la carta. Ejemplo https://cuestion-de-espacio.github.io/Frontend/#/1
 - Aca tenemos la plantilla que corresponde a su carta. (esta vacia)
-- La web tiene que saber que cuando viene un usuario, tengo que pedir los datos al backend. Nos dirigue a otro repo por ejemplo. www.baseDeDatosCartas.com/cartas/001
+- La web tiene que saber que cuando viene un usuario, tengo que pedir los datos al backend. Nos dirigue a otro repo por ejemplo. https://cartas-backend.herokuapp.com/
 - Busca en el jason del punto anterior.
 - Una vez que tengo los datos los aplico a la plantilla.
 
