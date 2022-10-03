@@ -1,6 +1,8 @@
 # 👽 Cuestion de espacio
 
 - [Nasa Internacional Space Apps Challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/space-biology-superhero/teams/cuestion-de-espacio/project)
+- [Presentacion(https://docs.google.com/presentation/d/1owJP8IoTKpZtDeG0UolIKm6VnmX1VBTz4oB3lYsBAMM/edit#slide=id.gcb9a0b074_1_0)
+- [Drive con la cartas](https://drive.google.com/drive/folders/1X7Xbgo0IdRu6H7Q1ddaP2kjalD71kC7I)
 
 # Pagina Principal
 
@@ -26,15 +28,15 @@
 <td> Rasgos</td> <td> Mounstros </td><td> Ambientes </td>
 </tr><tr><td>
 
-![](/profile/img/Rasgos.png)
+![](https://user-images.githubusercontent.com/55964635/193648922-55f0715a-cee0-47de-8141-6e652f1b28ea.png)
 
 </td><td>
 
-![](/profile/img/Mounstros0000.png)
+![](https://user-images.githubusercontent.com/55964635/193649016-57cef9fa-cd3c-463c-9a2f-083bc7416175.png)
  
 </td><td>
- 
-![](/profile/img/Ambientes0000.png)
+
+![](https://user-images.githubusercontent.com/55964635/193649459-38b89a79-c7b8-49c2-b603-bd467dba4c60.png)
  
 </td></tr></table>
 
