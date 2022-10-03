@@ -1,5 +1,13 @@
 # 👽 Cuestion de espacio
 
+# Pagina Principal
+
+<a href="https://cuestion-de-espacio.github.io"><img src="https://user-images.githubusercontent.com/55964635/193591347-2626e551-ec42-48f7-90e2-3d21f7bfc808.png"   /></a>
+
+# Pagina de Muestra de Los Datos
+
+<a href="https://cuestion-de-espacio.github.io/Frontend/#/2"><img src="https://user-images.githubusercontent.com/55964635/193590554-320939f3-5eb3-405f-a62f-8e232464ed4f.png"   /></a>
+
 - **Fuente letra** "Malgun Gothic"
 
 ## Reglas
@@ -7,15 +15,6 @@
 - Se juego con dos jugadores (modo duelo)
 - Al que gana en el duelo, se gana un rasgo
 
-## Cartas
-
-- Rata
-    - Ataque : 
-    - Vida :
-- Humano
-    -  Vive
-- Hongos
-    - Resiste
 
 
 ## Plantillas
@@ -39,13 +38,4 @@
 
 ### Diagrama de flujo utilizado
 <img src='./profile/img/Diagrama.jpeg'>
-
-
-## Pasos
-- Con qr voy a la direccion de la carta. Ejemplo https://cuestion-de-espacio.github.io/Frontend/#/1
-- Aca tenemos la plantilla que corresponde a su carta. (esta vacia)
-- La web tiene que saber que cuando viene un usuario, tengo que pedir los datos al backend. Nos dirigue a otro repo por ejemplo. https://cartas-backend.herokuapp.com/
-- Busca en el jason del punto anterior.
-- Una vez que tengo los datos los aplico a la plantilla.
-
 
