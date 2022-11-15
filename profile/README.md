@@ -40,6 +40,4 @@
  
 </td></tr></table>
 
-### Diagrama de flujo utilizado
-<img src='./profile/img/Diagrama.jpeg'>
 
